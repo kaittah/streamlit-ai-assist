@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/blackary/cookiecutter-streamlit-component/",
+  "commit": "c972054b7b0890a1aa1c02e792bedc71c525ea87",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Kaitlyn Hennacy",
+      "author_email": "kaitlynhennacy@gmail.com",
+      "project_name": "Streamlit AI Assist",
+      "package_name": "streamlit-ai-assist",
+      "import_name": "streamlit_ai_assist",
+      "description": "A built in data analyst for your Streamlit app",
+      "deployment_via_github_actions": "y",
+      "working_with_dataframes": "y",
+      "open_source_license": "GNU General Public License v3",
+      "_template": "https://github.com/blackary/cookiecutter-streamlit-component/"
+    }
+  },
+  "directory": null
+}

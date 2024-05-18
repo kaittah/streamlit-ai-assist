@@ -1,0 +1,3 @@
+recursive-include src/streamlit_ai_assist/frontend *
+include README.md
+include LICENSE
