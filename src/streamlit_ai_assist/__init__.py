@@ -4,7 +4,6 @@ from typing import Optional
 import streamlit as st
 import streamlit.components.v1 as components
 
-from backend import test
 
 # Tell streamlit that there is a component called streamlit_ai_assist,
 # and that the code to display that component is in the "frontend" folder
@@ -23,8 +22,6 @@ def streamlit_ai_assist(
     component_value = _component_func(
         key=key,
     )
-
-    t = test.test()
 
     return component_value
 
